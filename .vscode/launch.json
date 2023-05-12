@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AdmApplication<adm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.adm.AdmApplication",
+            "projectName": "adm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
